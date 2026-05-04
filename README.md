@@ -69,7 +69,14 @@ Figure saved to: C:\Users\nina\figures
 
 Generated from `example/gaussian_250.csv` — 250 samples from 𝒩(50, 10):
 
-![example output](example/distribution_value_bins17.png)
+**3 bins**
+![3 bins](example/distribution_value_bins3.png)
+
+**16 bins** (≈ √N)
+![16 bins](example/distribution_value_bins16.png)
+
+**20 bins**
+![20 bins](example/distribution_value_bins20.png)
 
 ## Supported file formats
 
